@@ -9,3 +9,4 @@ This Python script adapts the outputted structure. After transforming the json u
 <a href="url"><img src="https://github.com/schomakers/Maps2CleanJSON/blob/main/assets/mygeodata_cloud.png" align="center" width=450></a>
 
 
+**Note**: To my knowledge individual set points, just like the 2nd exmaple entry land just somewhere close to the Gulf of Guinea (coordinates 0,0 are assigned). I'll research on how to overcome this issue.
