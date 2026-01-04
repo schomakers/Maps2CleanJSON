@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          19.9434319,
+          50.0511833
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-04T18:20:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=16312993639536919792",
+        "location": {
+          "address": "Beera Meiselsa 18, 31-058 Kraków, Poland",
+          "country_code": "PL",
+          "name": "HEVRE | Bar & Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2026-01-04T18:19:57Z",
+        "google_maps_url": "http://maps.google.com/?q=Rua+da+Bempostinha+20,+1150-063+Lisboa,+Portugal&ftid=0xd193384e8ee1c83:0x49c790e833d49d88",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    }
+  ]
+}
